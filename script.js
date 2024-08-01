@@ -83,4 +83,4 @@ function feelingLoopy(file) {
     }
     console.log(rows)
 }
-feelingLoopy(csv)
+feelingLoopy(csv);
